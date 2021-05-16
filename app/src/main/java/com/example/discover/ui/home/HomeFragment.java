@@ -29,7 +29,7 @@ public class HomeFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_home, container, false);
 
         sliderLayout = view.findViewById(R.id.slider);
-        sliderLayout.setIndicatorAnimation(IndicatorAnimations.FILL);
+        sliderLayout.setIndicatorAnimation(IndicatorAnimations.DROP);
         sliderLayout.setSliderTransformAnimation(SliderAnimations.SIMPLETRANSFORMATION);
         sliderLayout.setScrollTimeInSec(3);
 
