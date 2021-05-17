@@ -1,6 +1,7 @@
 package com.example.discover.ui.notice;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,6 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.example.discover.FullImageView;
 import com.example.discover.R;
 
 import java.util.ArrayList;
@@ -47,6 +49,15 @@ public class NoticeAdapter extends RecyclerView.Adapter<NoticeAdapter.NoticeView
         } catch (Exception e) {
             e.printStackTrace();
         }
+
+        holder.noticeImage.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(context, FullImageView.class);
+                intent.putExtra("image", currentItem.getImage());
+                context.startActivity(intent);
+            }
+        });
 
 
     }

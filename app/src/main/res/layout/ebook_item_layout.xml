@@ -37,7 +37,7 @@
             android:src="@drawable/ic_download"
             android:layout_marginLeft="-30dp"
             app:tint="#57ff40"/>
-"
+
 
     </LinearLayout>
 
