@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.google.android.material.card.MaterialCardView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="3dp"
     android:layout_height="wrap_content">
 
     <LinearLayout
@@ -30,7 +31,7 @@
                 android:fontFamily="@string/bold"
                 android:id="@+id/br_title"
                 android:layout_marginLeft="@dimen/text_margin"
-                android:text="Branch"
+                android:text="Departments"
                 android:textColor="@color/textColor"
                 android:textSize="@dimen/title_size" />
 
