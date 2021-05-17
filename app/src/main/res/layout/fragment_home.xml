@@ -22,12 +22,12 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="IIT Guwahati"
-                android:layout_marginTop="36dp"
-                android:textSize="@dimen/title_size"
                 android:layout_gravity="center_horizontal"
+                android:layout_marginTop="36dp"
+                android:fontFamily="@string/bold"
+                android:text="IIT Guwahati"
                 android:textColor="@color/textColor"
-                android:fontFamily="@string/bold"/>
+                android:textSize="@dimen/title_size" />
 
             <TextView
                 android:layout_width="wrap_content"
