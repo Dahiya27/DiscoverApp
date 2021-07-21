@@ -1,11 +1,11 @@
 # Discover
 
 ## What is this?
-An Android app to retrieve and display information relevant to the students of IITG.
+An Android application facilitating as a college guide for IIT Guwahati.
 
 It includes :
-- A home screen that displays some the background of IITG, a slider showing the latest developments around the institute, contact details and a Google Maps link to show the campus location.
-- A Notice screen to dipslay latest Notices issued by the Admin.
+- A home screen that displays some of the background of IITG, a slider showing the latest developments around the institute, contact details and a Google Maps link to show the campus location.
+- A Notice screen to display latest Notices issued by the Admin.
 - A Faculty screen to display contact information and details of faculties of various departments.
 - A Gallery that shows categorized images of events conducted at the institute.
 - An About screen to show additional details.
