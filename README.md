@@ -20,17 +20,17 @@ We used Android Studio and Google's Firebase to build the app.
 <p align="center">
 <img src="./ReadMeImages/Home.jpeg" width="20%" >
   <span>&nbsp; &nbsp; </span>
-<img src="./readmeImg/Home2.jpeg" width="20%" >
+<img src="./ReadMeImages/Home2.jpeg" width="20%" >
   <span>&nbsp; &nbsp; </span>
-<img src="./readmeImg/Notice.jpeg" width="20%" >
+<img src="./ReadMeImages/Notice.jpeg" width="20%" >
   <span>&nbsp; &nbsp; </span>
 <img src="./ReadMeImages/Faculty.jpeg" width="20%" >
 </br>
 <img src="./ReadMeImages/Gallery.jpeg" width="20%" >
   <span>&nbsp; &nbsp; </span>
-<img src="./readmeImg/About.jpeg" width="20%" >
+<img src="./ReadMeImages/About.jpeg" width="20%" >
   <span>&nbsp; &nbsp; </span>
-<img src="./readmeImg/NavDrawer.jpeg" width="20%" >
+<img src="./ReadMeImages/NavDrawer.jpeg" width="20%" >
   <span>&nbsp; &nbsp; </span>
 <img src="./ReadMeImages/Ebook.jpeg" width="20%" >
 </br>
