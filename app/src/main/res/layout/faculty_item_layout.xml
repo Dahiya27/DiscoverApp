@@ -39,7 +39,7 @@
                     android:id="@+id/teacherPost"
                     android:text="Dean"
                     android:textColor="@color/textColor"
-                    android:textSize="@dimen/title_size"
+                    android:textSize="@dimen/text_size"
                     android:fontFamily="@string/regular"/>
 
                 <TextView

@@ -62,7 +62,7 @@
                     android:layout_gravity="center_horizontal"
                     android:fontFamily="@string/bold"
                     android:layout_marginTop="@dimen/text_margin"
-                    android:text="Others"
+                    android:text="Independence Day"
                     android:textColor="@color/textColor"
                     android:textSize="@dimen/title_size" />
 

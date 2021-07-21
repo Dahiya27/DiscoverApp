@@ -49,7 +49,7 @@ public class GalleryFragment extends Fragment {
     }
 
     private void getOtherImage() {
-        reference.child("Other Events").addValueEventListener(new ValueEventListener() {
+        reference.child("Independence Day").addValueEventListener(new ValueEventListener() {
 
             List<String> imageList = new ArrayList<>();
 

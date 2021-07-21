@@ -65,23 +65,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.navigation_developer:
                 Toast.makeText(this, "Developer", Toast.LENGTH_SHORT).show();
                 break;
-            case R.id.navigation_video:
-                Toast.makeText(this, "Video Lectures", Toast.LENGTH_SHORT).show();
-                break;
-            case R.id.navigation_rate:
-                Toast.makeText(this, "Rate", Toast.LENGTH_SHORT).show();
-                break;
             case R.id.navigation_ebook:
                 startActivity(new Intent(this, EbookActivity.class));
                 break;
             case R.id.navigation_website:
                 Toast.makeText(this, "Website", Toast.LENGTH_SHORT).show();
-                break;
-            case R.id.navigation_theme:
-                Toast.makeText(this, "Theme", Toast.LENGTH_SHORT).show();
-                break;
-            case R.id.navigation_share:
-                Toast.makeText(this, "Share", Toast.LENGTH_SHORT).show();
                 break;
         }
 
